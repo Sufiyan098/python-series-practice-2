@@ -1,4 +1,4 @@
-# write a program to input side of a square
+a = int(input("enter first: "))
+b = int(input("enter second: "))
 
-side = float(input("enter squre side : "))
-print("area =", side ** side)
+print(a >= b)
